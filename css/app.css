@@ -13,7 +13,7 @@
 }
 
 .main-content {
-  margin:3rem;
+  margin-top: 2rem;
 }
 
 .main-content img {
@@ -22,4 +22,21 @@
 
 .main-content li{
   margin:1rem 0;
+}
+
+.mypanel {
+  margin:2rem 0rem;
+}
+.mypanel-border {
+  margin:2rem 0rem;
+  border:2px solid #ddd;
+  border-top:3px inset #aaa;
+  padding:2rem 2rem;
+}
+
+.mytitle{
+  margin-bottom:1rem;
+  font-size:large;
+  font-weight:bold;
+  color:#1779ba;
 }
