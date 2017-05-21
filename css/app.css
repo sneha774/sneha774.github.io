@@ -1,3 +1,4 @@
+
 .top-bar {
   background: #333;
 }
@@ -9,4 +10,16 @@
 
 .top-bar .menu a{
   color: #ececec;
+}
+
+.main-content {
+  margin:3rem;
+}
+
+.main-content img {
+  margin:1rem 1rem;
+}
+
+.main-content li{
+  margin:1rem 0;
 }
